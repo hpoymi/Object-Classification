@@ -1,7 +1,1 @@
-hello, i am Ostap
-
-i am systems engineering student in Politechnika Wroclawska
-i like to write code and solve different problems
-
-my email: ostapmochkodan2003@gmail.com
-my linkedin: https://www.linkedin.com/in/ostap-mochkodan/
+The project discusses the construction of a convolutional neural network (CNN) for image classification. This network was implemented using the Keras library and was used to recognize different types of objects (cars, cats, birds). Simulation tests were carried out, which allowed to assess the effectiveness of the network.
